@@ -7,7 +7,7 @@ This program consists out of two systems. One central, where the information abo
 and sells statistics displayed. The mobile version allows users to take it with them and scan or find the product and follow a procedure similarly
 to a shopping cart. <br>
 
-Currently: Beta phase; till 10.08 Testing
+Currently: Beta phase; till 30.08 Testing
 
 ## Central System
 The  main goal of the central system is to inform the program of the objects while following the central objective. For this a general form allows an individual creation but it is also possible to import large quantities of products at once. Changing can also occur individually in the overview or via click and connect pseudo SQL-code. Besides this, this system implements hierarchies aka. classes. Classes are like trees and help finding objects. The leaves remain fixed to their parent and, as long as they don't share the same parent, can process the same name. Furthermore the central system allows a simple overview over the sales with the total, average of sales over a defined time frame and an analyst of which products impacted these. <br>
